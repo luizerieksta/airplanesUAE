@@ -1,0 +1,106 @@
+
+
+.background_image {
+	width: 100%;
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+.video {
+	margin-top: -4px;
+
+}
+
+.visualization {
+	width: 800px;
+}
+
+.center {
+	text-align: center;
+}
+
+.blue {
+	width: 100%;
+	position: relative;
+	top: 0;
+	left: 0;
+	margin-top: -5px;
+	height: 480px;
+}
+
+.text {
+
+  	position: absolute;
+  	top: 20px;
+   	text-align: center;
+  	width: 100%;
+  	color: white;
+  	font-family: titling-gothic-fb, sans-serif;
+  	font-size: 1.8em;
+}
+
+.bigger {
+  	position: absolute;
+  	top: 23px;
+  	text-align: center;
+  	width: 100%;
+  	color: white;
+  	font-family: titling-gothic-fb, sans-serif;
+	font-size: 5em;
+}
+
+
+.text2 {
+	position: absolute;
+	top: 155px;
+	text-align: center;
+	width: 100%;
+	color: white;
+ 	font-family: titling-gothic-fb, sans-serif;
+ 	font-size: 1.8em;
+
+}
+
+.text3 {
+	position: absolute;
+	top: 560px;
+	text-align: center;
+	width: 100%;
+	color: white;
+ 	font-family: titling-gothic-fb, sans-serif;
+ 	font-size: 1.8em;
+}
+
+.text4 {
+	position: absolute;
+	top: 610px;
+	text-align: center;
+	width: 100%;
+	color: white;
+ 	font-family: titling-gothic-fb, sans-serif;
+ 	font-size: 1.2em;
+}
+
+
+.info {
+
+   position: absolute;
+   bottom: 0;	
+   width: 600px;
+   left: 30%;
+   right: 0;
+   color: white;
+   font-family: titling-gothic-fb, sans-serif;
+   font-size: 1.1em;
+   padding-bottom: 65px;
+
+}
+
+.background2 {
+	position: relative;
+}
+
+
+
+
